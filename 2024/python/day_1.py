@@ -36,8 +36,5 @@ for l in left_list:
 
 answer = sum(dif_list)
 
-# print(left_list)
-# print(right_list)
-# print(dif_list)
 print("Answer: {}".format(str(answer)))
 print("Similarity Score: {}".format(str(similarity_score)))
